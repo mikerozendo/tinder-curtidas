@@ -1,4 +1,4 @@
-var buttonLike = document.querySelectorAll('button');[28];
+var buttonLike = document.querySelectorAll('button')[28];
 
 if(buttonLike != null && buttonLike != undefined){
 
